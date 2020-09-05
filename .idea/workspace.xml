@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3aac1f16-bb9e-42f5-a851-e5f6fd5a745a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1h3yCDnrpxbllT2g94bWeHY0O9a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/server" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.TestHandleGet in go-data/server">
+    <configuration name="main" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="go-data" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$" />
+      <package value="go-data" />
+      <directory value="$PROJECT_DIR$" />
+      <output_directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BenchmarkJsonDecoder in go-data" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="go-data" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="go-data" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^BenchmarkJsonDecoder$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestHandleGet in go-data/server" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="go-data" />
+      <working_directory value="$PROJECT_DIR$/server" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="go-data/server" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^TestHandleGet$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestHandlePost in go-data/server" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="go-data" />
+      <working_directory value="$PROJECT_DIR$/server" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="go-data/server" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^TestHandlePost$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestJsonDecoder in go-data" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="go-data" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="go-data" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^TestJsonDecoder$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.main" />
+      <item itemvalue="Go Test.TestJsonDecoder in go-data" />
+      <item itemvalue="Go Test.BenchmarkJsonDecoder in go-data" />
+      <item itemvalue="Go Test.TestHandleGet in go-data/server" />
+      <item itemvalue="Go Test.TestHandlePost in go-data/server" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestHandleGet in go-data/server" />
+        <item itemvalue="Go Test.TestHandlePost in go-data/server" />
+        <item itemvalue="Go Test.BenchmarkJsonDecoder in go-data" />
+        <item itemvalue="Go Test.TestJsonDecoder in go-data" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="46" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599254340328">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="104" y="46" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.724@0.23.1280.724" timestamp="1599254340328" />
+    <state width="609" height="466" key="DebuggerActiveHint" timestamp="1599321991090">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="609" height="466" key="DebuggerActiveHint/0.23.1280.723@0.23.1280.723" timestamp="1599321991090" />
+    <state width="1238" height="224" key="GridCell.Tab.0.bottom" timestamp="1599322471870">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="224" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1599322471870" />
+    <state width="1238" height="180" key="GridCell.Tab.0.bottom/0.23.1280.724@0.23.1280.724" timestamp="1599260735368" />
+    <state width="1238" height="224" key="GridCell.Tab.0.center" timestamp="1599322471869">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="224" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1599322471869" />
+    <state width="1238" height="180" key="GridCell.Tab.0.center/0.23.1280.724@0.23.1280.724" timestamp="1599260735368" />
+    <state width="1238" height="224" key="GridCell.Tab.0.left" timestamp="1599322471869">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="224" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1599322471869" />
+    <state width="1238" height="180" key="GridCell.Tab.0.left/0.23.1280.724@0.23.1280.724" timestamp="1599260735367" />
+    <state width="1238" height="224" key="GridCell.Tab.0.right" timestamp="1599322471869">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="224" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1599322471869" />
+    <state width="1238" height="180" key="GridCell.Tab.0.right/0.23.1280.724@0.23.1280.724" timestamp="1599260735368" />
+    <state width="1238" height="224" key="GridCell.Tab.1.bottom" timestamp="1599322471871">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="224" key="GridCell.Tab.1.bottom/0.23.1280.723@0.23.1280.723" timestamp="1599322471871" />
+    <state width="1238" height="224" key="GridCell.Tab.1.center" timestamp="1599322471870">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="224" key="GridCell.Tab.1.center/0.23.1280.723@0.23.1280.723" timestamp="1599322471870" />
+    <state width="1238" height="224" key="GridCell.Tab.1.left" timestamp="1599322471870">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="224" key="GridCell.Tab.1.left/0.23.1280.723@0.23.1280.723" timestamp="1599322471870" />
+    <state width="1238" height="224" key="GridCell.Tab.1.right" timestamp="1599322471870">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="224" key="GridCell.Tab.1.right/0.23.1280.723@0.23.1280.723" timestamp="1599322471870" />
+    <state width="640" height="361" key="XDebugger.FullValuePopup" timestamp="1599321973584">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="640" height="361" key="XDebugger.FullValuePopup/0.23.1280.723@0.23.1280.723" timestamp="1599321973584" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1599321400650">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.23.1280.723@0.23.1280.723" timestamp="1599321400650" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/server/server.go</url>
+          <line>27</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/server/server.go</url>
+          <line>45</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
